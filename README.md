@@ -37,7 +37,6 @@ blog: https://github.com/myl0204/blog/issues
 - 复用组件，提升代码利用率
     - 封装了`modal`组件，在此基础上写了`message`和`logIn`组件
 - 对移动端响应式有了进一步理解
-    - 对于不同dpr的手机，采用不同的字体大小
     - 布局方面，采用`vh`来写
 - 对vuex的使用还停留在非常浅显的水平
     + 只是简单的提交mutation来更改state
