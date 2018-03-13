@@ -42,3 +42,6 @@ blog: https://github.com/myl0204/blog/issues
     + 只是简单的提交mutation来更改state
 - app复原程度低，功能少
     + 有待完善
+## 其他
+- 熟练使用ES6及Vue框架。
+- 了解使用过前端构建工具gulp,webpack;css预处理器Sass
