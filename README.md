@@ -6,22 +6,22 @@
 出生年月: 1994.02
 
 
-学历： 本科/浙江科技学院
+学历： 本科/浙江科技学院/2016年
 
 
 电话： 18968979900
 
 Email: yunliangmiao@gmail.com
 
-blog: https://github.com/myl0204/blog/issues
+blog: https://segmentfault.com/blog/fehaha
 ## 项目经验
 ### [网易产品教育部首页](https://myl0204.github.io/Netease-Edu/) 
-简陋的小项目
+只是一个页面。
 - 使用/实现了雪碧图、轮播图、滚动列表、登陆表单、Ajax、cookie、响应式、组件化的思想，兼容IE8+
 
 收获及反思
 - 算是入门了前端，写滚动列表的过程中也知道了出于性能，浏览器会尽可能的把最近的需要渲染的动作整合到一起执行。
-- 代码风格不好；命名不规范；对resize事件也没有使用函数节流，从而导致性能较差；
+- 代码风格不好；命名不规范；对resize事件也没有使用函数节流。
 
 [github地址](https://github.com/myl0204/Netease-Edu)
 
