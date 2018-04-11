@@ -16,7 +16,7 @@ Email: yunliangmiao@gmail.com
 blog: https://segmentfault.com/blog/fehaha
 ## 项目经验
 ### [网易产品教育部首页](https://myl0204.github.io/Netease-Edu/) 
-只是一个页面。
+> 只是一个页面。
 - 使用/实现了雪碧图、轮播图、滚动列表、登陆表单、Ajax、cookie、响应式、组件化的思想，兼容IE8+
 
 收获及反思
@@ -27,7 +27,7 @@ blog: https://segmentfault.com/blog/fehaha
 
 ### [仿didi项目](https://github.com/myl0204/XiXi)
 
-简单而五脏俱全的spa，从打车变为撸猫:cat:
+> 简单而五脏俱全的spa，从打车变为撸猫:cat:
 - 使用了vue全家桶
 - 实现了多个组件，组件复用度高。
 
@@ -42,6 +42,16 @@ blog: https://segmentfault.com/blog/fehaha
     + 只是简单的提交mutation来更改state
 - app复原程度低，功能少
     + 有待完善
+
+### tab-slider [滑动切换路由组件](https://github.com/myl0204/tab-slider)
+> 算是一个轮子吧
+- 仿didi项目中的一个功能，抽离出来改写为一个公共组件，并发布到npm。
+
+收获和反思
+- 之前项目中的写法重复代码多，写法固定
+    + 抽离后代码复用度高，支持多个tab之间切换。
+- 对webpack不够熟悉，打包后的文件总是无法被正常使用
+    + 增加output选项中的library属性
 ## 其他
 - 熟练使用ES6及Vue框架。
 - 了解使用过前端构建工具gulp,webpack;css预处理器Sass
