@@ -43,7 +43,7 @@ blog: https://segmentfault.com/blog/fehaha
 - app复原程度低，功能少
     + 有待完善
 
-### tab-slider [滑动切换路由组件](https://github.com/myl0204/tab-slider)
+### [tab-slider](https://github.com/myl0204/tab-slider) 滑动切换路由组件
 > 算是一个轮子吧
 - 仿didi项目中的一个功能，抽离出来改写为一个公共组件，并发布到npm。
 
