@@ -12,6 +12,8 @@
 Email: yunliangmiao@gmail.com
 
 blog: https://segmentfault.com/blog/fehaha
+
+求职状态: 暂时不换工作
 ## 项目经验
 
 ### [仿didi项目](https://github.com/myl0204/XiXi)
@@ -30,7 +32,12 @@ blog: https://segmentfault.com/blog/fehaha
 - 抽离出一个slider(swiper)组件[tab-slider](https://github.com/myl0204/tab-slider)
 
 ## 工作经验
-### 杭州其德控股 2018.04 - 至今
+
+### 杭州衣科信息技术有限公司 2018.08-至今
+- 负责`笑铺日记`app的货品、客户模块。
+- 编写通用组件。
+
+### 杭州其德控股 2018.04 - 2018.08
 - 独立开发公司官网(Vue)
 - 协作开发商城app(React Native with DVA)
     + 首次接触React，边学边写，不拖后腿，保质保量完成任务。
@@ -40,5 +47,5 @@ blog: https://segmentfault.com/blog/fehaha
 ## 其他
 - 技术栈
     - 掌握Vue.js以及Vuex、Vue Router
-    - 掌握React.js/React Native以及dva
+    - 掌握React.js/React Native/Mobx
 - 使用过前端构建工具webpack;css预处理器Sass、Less
