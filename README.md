@@ -5,39 +5,38 @@
 
 出生年月: 1994.02
 
-学历： 本科/浙江科技学院/2016年
+学历： 本科/浙江科技学院/通信工程/2016年
 
 电话： MTg5Njg5Nzk5MDA=
 
 Email: yunliangmiao@gmail.com
 
-blog: https://segmentfault.com/blog/fehaha
-
-求职状态: 暂时不换工作
-## 项目经验
-
-### [仿didi项目](https://github.com/myl0204/XiXi)
-
-> 简单而五脏俱全的spa，从打车变为撸猫:cat:，个人入门前端项目
-- 使用了vue全家桶
-- 实现了多个组件，组件复用度高。
-
-收获及反思
-- 了解学习了移动端的`touch`事件
-    - 多个组件用到了`touch`事件
-- 复用组件，提升代码利用率
-    - 封装了`modal`组件，在此基础上写了`message`和`logIn`组件
-- 对移动端响应式有了进一步理解
-    - 布局方面，采用`vh`来写
-- 抽离出一个slider(swiper)组件[tab-slider](https://github.com/myl0204/tab-slider)
+求职状态：考虑机会
 
 ## 工作经验
 
-### 杭州衣科信息技术有限公司 2018.08-至今
-- 负责`笑铺日记`app的货品、客户模块。
-- 编写通用组件。
+### 杭州某公司 2018.08-至今
+- app项目1：18.08 - 18.11(React Native、 Mobx、Flow)
+  - 一个店铺管理工具，主要负责货品、客户模块。
+- app项目2：18.12 - 19.04(React Native、 Mobx、Flow)。
+  - B2B服装商城，业务上做一些小功能，后续主要负责商城首页。
+  - 初进项目组时候独立做了一波性能优化：长列表性能从20-30帧到稳定**60**帧左右；购物车重复渲染问题等。并主动完善类型系统。
+  - 主动提出并独立完成了react-native到0.59的升级并记录了相关[经验](https://segmentfault.com/a/1190000018712753)。
+- 小程序项目1：19.04 - 19.10(Taro 、TypeScript、Dva)
+  - 商城小程序，使用Taro开发，负责难点攻坚以及优化、体验相关。
+  - 一个模仿Safari tab切换页面的需求，最终用`perspective` `rotateX`模拟出10%的效果。
+  - 模仿抖音交互的视频选货功能。
+  - 依照`react`基础最佳实践去重构项目中一些不好的代码。
+  - 对`dva-loaing`进行微调，辅以自己编写的withEmptyView、emptyView组件为项目中各列表提供了统一的刷新样式及占位视图，提高了开发效率及用户体验。
+- h5项目1：19.10 - 10.12(Taro 、Typescript、Dva)
+  - 公众号h5，主要用于展示客户票据。项目采用了腾讯统计做相关埋点，期间为了更好追踪每个页面的使用率，将路由模式改为`history`，并推动运维配合修改nginx配置。
+- h5项目2：19.12 - 至今(Vue)
+  - 实则共4个项目，皆以插件的形式运行于不同的宿主中（RN、iPad）。主导了其中3.5个项目（其中一个是后面接手，所以算半个吧）
+  - 迫于测试环境发版流程的繁琐（打包后上传svn ，然后远程登陆服务器敲命令发布，而项目本身代码管理又是基于git），遂用node编写了自动发布脚本，配合jenkins实现自动发版。
+  - 主动为项目配置了`lint-staged`及`commitlint`提升代码质量。
 
-### 杭州其德控股 2018.04 - 2018.08
+### 杭州其德控股 2018.04 - 2018.08（第一份*前端*工作🎉）
+
 - 独立开发公司官网(Vue)
 - 协作开发商城app(React Native with DVA)
     + 首次接触React，边学边写，不拖后腿，保质保量完成任务。
@@ -45,7 +44,5 @@ blog: https://segmentfault.com/blog/fehaha
 - 协作开发积分商城h5页面(React with umi)
 
 ## 其他
-- 技术栈
-    - 掌握Vue.js以及Vuex、Vue Router
-    - 掌握React.js/React Native/Mobx
-- 使用过前端构建工具webpack;css预处理器Sass、Less
+- webpack接触不多，有用到啃一啃文档基本能用;css预处理器Sass、Less略有涉猎;会写也爱写一些简单的css3动画;git-flow是基本开发流程;
+- 学东西还挺快
